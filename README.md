@@ -1,4 +1,4 @@
-# ninja-blog
+# Vue-firebase-blog-app
 
 ## Project setup
 ```
